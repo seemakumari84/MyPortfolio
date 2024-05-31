@@ -1,1 +1,1 @@
-Seema's simple website using html and css
+This project showcase about me,my certificates and various projects i have worked on.
